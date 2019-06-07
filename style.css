@@ -1,0 +1,51 @@
+::-webkit-scrollbar {
+    width: 0;
+}
+
+body {
+    margin: 0;
+    padding: 0;
+    width: 100%;
+    height: 100%;
+    color: #fff !important;
+    font-family: 'Roboto', sans-serif;
+    background-color: #252525 !important;
+}
+
+
+.content {
+    text-align: center;
+    margin-top: 10%;
+}
+
+.servers {
+    font-size: 19px;
+    color: rgb(211, 211, 211);
+}
+
+.online {
+    color: rgb(113, 255, 94);
+}
+
+.offline {
+    color: rgb(255, 85, 85);
+}
+
+.footer {
+    font-size: 12px;
+    margin-top: 3%;
+    color: #838383;
+}
+
+a {
+    color: #646464 !important;
+}
+
+a:hover {
+    text-decoration: none !important;
+    color: #6195ff !important;
+}
+
+a.source-code {
+    text-decoration: underline;
+}
